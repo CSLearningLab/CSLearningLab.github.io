@@ -17,9 +17,10 @@ The Learning Lab is open from 5-7 Tuesday through Thursday in FB007. Check out t
 <div class="datatable-begin"></div>
 
       | Tuesday  | Wednesday | Thursday
-      | -------- | --------- | ---------
+----- | -------- | --------- | ---------
 5-6   | COMP110  | COMP110   | COMP110
 6-7   | COMP110  | COMP110   | COMP110
+
 <div class="datatable-end"></div>
 
 Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track the Learning Lab's progress!
