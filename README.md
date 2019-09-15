@@ -14,14 +14,14 @@ The Learning Lab is designed to be your one-stop shop for conceptual help. A typ
 The Learning Lab is open from 5-7 Tuesday through Thursday in FB007. Check out the schedule below for when your TAs will be available for help!
 
 <!-- insert table -->
-<!-- <div class="datatable-begin"></div> --> 
+<div class="datatable-begin"></div> 
 
 |      | Tuesday  | Wednesday | Thursday  |
 |----- | -------- | --------- | --------- |
 |5-6   | COMP110  | COMP110   | COMP110   |
 |6-7   | COMP110  | COMP110   | COMP110   |
 
-<!-- <div class="datatable-end"></div> --> 
+<div class="datatable-end"></div>
 
 Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track the Learning Lab's progress!
 
