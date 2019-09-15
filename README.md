@@ -22,6 +22,8 @@ The Learning Lab is open from 5-7 Tuesday through Thursday in FB007. Check out t
 6-7     | COMP110   | COMP110    | COMP110
 <div class="datatable-end"></div>
 
+Make sure to check in [here] (http://bit.ly/ll-checkin), so that we can better track the Learning Lab's progress!
+
 <!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
