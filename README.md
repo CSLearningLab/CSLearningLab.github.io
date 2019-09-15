@@ -16,10 +16,10 @@ The Learning Lab is open from 5-7 Tuesday through Thursday in FB007. Check out t
 <!-- insert table -->
 <!-- <div class="datatable-begin"></div> --> 
 
-      | Tuesday  | Wednesday | Thursday  |
------ | -------- | --------- | --------- |
-5-6   | COMP110  | COMP110   | COMP110   |
-6-7   | COMP110  | COMP110   | COMP110   |
+|      | Tuesday  | Wednesday | Thursday  |
+|----- | -------- | --------- | --------- |
+|5-6   | COMP110  | COMP110   | COMP110   |
+|6-7   | COMP110  | COMP110   | COMP110   |
 
 <!-- <div class="datatable-end"></div> --> 
 
