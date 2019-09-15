@@ -1,3 +1,6 @@
+---
+title: CS Learning Lab
+---
 
 ## Welcome to UNC Learning Lab
 
