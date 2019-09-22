@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148497617-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-148497617-1');
+</script>
+
 # Welcome to UNC Learning Lab
 Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track our progress!
 
