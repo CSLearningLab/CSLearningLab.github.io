@@ -25,21 +25,21 @@ tbody {
 
 thead th,
 tbody td {
-  width: 7em;
+  width: 10em;
   text-align: center;
 }
 
 thead tr th:first-child,
 tbody tr td:first-child {
  
-  width: 3em;
+  width: 6em;
   font-weight: normal;
   text-align: center;
 }
 
 thead tr {
  
-  width: 3em;
+  width: 6em;
   background: DarkCyan;
   font-weight: bold;
 }
