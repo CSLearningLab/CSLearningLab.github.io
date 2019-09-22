@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+table { 
+  border-collapse: collapse;
+}
+
+th {
+  text-align: center;
+  font-weight: bold;
+}
