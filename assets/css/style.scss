@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 
-table {
-   margin-left: auto;
-   margin-right: auto;
+body {
+  justify-content: center;
+  align-items: center;
 }
 
 thead,
