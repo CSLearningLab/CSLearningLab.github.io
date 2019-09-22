@@ -9,7 +9,7 @@
 </script>
 
 # Welcome to UNC Learning Lab
-Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track our progress!
+Make sure to check in *[here](http://bit.ly/ll-checkin)*, so that we can better track our progress!
 
 ## Hours
 The Learning Lab is open from 5-7 Tuesday through Thursday in FB007. Check out the schedule below for when your TAs will be available for help!
@@ -22,9 +22,7 @@ The Learning Lab is open from 5-7 Tuesday through Thursday in FB007. Check out t
 
 <div class="datatable-end"></div>
  
-## More Information
- 
- ### What is it?
+### What is it?
 The Learning Lab is a new initiative from the CS Department to provide accessible and collaborative assistance on understanding key concepts from introductory CS courses, including: 110, 283, 290, 380, 401, 410, and 411. We are excited to offer this resource in adddition to the traditional Office Hours and recitations that already occur!
 
  ### When should I go?
