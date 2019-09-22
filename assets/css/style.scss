@@ -3,9 +3,11 @@
 
 @import "{{ site.theme }}";
 
+html, body {
+    width: 100%;
+}
 table {
-margin-left:auto; 
-margin-right:auto;
+    margin: 0 auto;
 }
 
 thead,
