@@ -11,3 +11,10 @@ th {
   text-align: center;
   font-weight: bold;
 }
+
+thead tr th:first-child,
+tbody tr td:first-child {
+ 
+  width: 8em;
+  font-weight: normal;
+}
