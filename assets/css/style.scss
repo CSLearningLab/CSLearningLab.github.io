@@ -12,6 +12,12 @@ th {
   font-weight: bold;
 }
 
+thead th,
+tbody td {
+  width: 7em;
+  padding:2px;
+}
+
 thead tr th:first-child,
 tbody tr td:first-child {
  
