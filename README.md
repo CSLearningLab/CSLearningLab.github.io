@@ -1,5 +1,5 @@
 ## Welcome to UNC Learning Lab
-Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track the Learning Lab's progress!
+Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track our progress!
 
 
 ### Learning Lab Hours
