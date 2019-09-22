@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-table {
-    margin: auto;
+.centered-table {
+   margin-left: auto;
+   margin-right: auto;
 }
 
 thead,
