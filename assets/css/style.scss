@@ -3,11 +3,10 @@
 
 @import "{{ site.theme }}";
 
-datatable {
-  justify-content: center;
-  align-items: center;
-  max-width: 100%;
+.container {
   margin: 0 auto;
+  padding: 0 10px;
+  width: 100%;
 }
 
 thead,
