@@ -31,7 +31,7 @@ The Learning Lab is a new initiative from the CS Department to provide accessibl
 The Learning Lab is designed to be your one-stop shop for conceptual help. A typical Learning Lab session will involve a group of TAs discussing material from lecture and answering questions in a small group session. We won't offer help on any assignments or labs, but it is a great place to reinforce your undertanding of material and work with other students in a smaller setting.
 
 ## Meet the team!
-Coming soon. For now, come meet the team in person by visiting the Learning Lab! 
-[//]: # still figuring out how to go about this. link to a separate page with profiles or just include names
- 
+[//]: # (still figuring out how to go about this. link to a separate page with profiles or just include names)
+ Coming soon. For now, come meet the team in person by visiting the Learning Lab! 
+
 
