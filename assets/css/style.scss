@@ -7,6 +7,16 @@ body {
   text-align: center;
 }
 
+.table-container {
+  text-align: center; 
+}
+
+.table-schedule {
+  width: 100%; 
+  height: 100%; 
+  display: inline-block;
+}
+
 .container {
   margin: 0 auto;
   padding: 0 10px;
@@ -36,7 +46,6 @@ tbody td {
 
 thead tr th:first-child,
 tbody tr td:first-child {
- 
   width: 5em;
   font-weight: normal;
   text-align: center;
