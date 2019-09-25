@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  text-align: center;
+}
+
 .container {
   margin: 0 auto;
   padding: 0 10px;
@@ -39,7 +43,6 @@ tbody tr td:first-child {
 }
 
 thead tr {
- 
   width: 5em;
   background: DarkCyan;
   font-weight: bold;
@@ -47,6 +50,10 @@ thead tr {
 
 tr:hover {background-color: #ddd;}
 th:hover {background-color: green;}
+
+.main-content p {
+ text-align: left; 
+}
 
 .datatable {
   display: inline-block
