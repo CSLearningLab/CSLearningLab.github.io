@@ -11,6 +11,14 @@
 # Welcome to UNC Learning Lab
 **Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track our progress!**
 
+<p>
+  <strong>
+    "Make sure to check in "
+    <a href="http://bit.ly/ll-checkin">here</a>
+    ", so that we can better track our progress!"
+  </strong>
+</p>
+
 ## Hours
 <div class="datatable-begin"></div> 
 
