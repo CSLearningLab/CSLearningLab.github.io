@@ -9,8 +9,6 @@
 </script>
 
 # Welcome to UNC Learning Lab
-**Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track our progress!**
-
 <p style="text-align: center;">
   <strong>
     Make sure to check in 
