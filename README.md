@@ -12,6 +12,7 @@
 **Make sure to check in [here](http://bit.ly/ll-checkin), so that we can better track our progress!**
 
 ## Hours
+<div class="table-container">
 <div class="datatable-begin"></div> 
 
 |      | Tuesday  | Wednesday | Thursday  |
@@ -20,6 +21,7 @@
 |6-7   | COMP110, COMP290, COMP380, COMP401  | COMP110, COMP290, COMP380, COMP401, COMP411   | COMP110, COMP283, COMP290, COMP411   |
 
 <div class="datatable-end"></div>
+</div>
 
 The Learning Lab is open from 5-7 Tuesday through Thursday in FB007. Check out the schedule above for when your TAs will be available for help!
  
