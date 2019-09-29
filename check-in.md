@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Check-In
+description: The Learning Lab
 ---
 
-## Welcome to another page
+## This page is still under construction.
+### Please click yay to be directed to yet another page!
+### Sorry :)
 
-_yay_
+[yay] (http://bit.ly/ll-checkin)
 
 [back](./)
