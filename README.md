@@ -12,7 +12,7 @@
 <p style="text-align: center;">
   <strong>
     Make sure to check in 
-    <a href="http://bit.ly/ll-checkin"> here, </a>
+    <a href="./check-in.html"> here, </a>
     so that we can better track our progress!
   </strong>
 </p>
