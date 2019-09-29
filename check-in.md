@@ -8,6 +8,6 @@ description: The Learning Lab
 ### Please click yay to be directed to yet another page!
 ### Sorry :)
 
-[yay] (http://bit.ly/ll-checkin)
+[yay](http://bit.ly/ll-checkin)
 
 [back](./)
