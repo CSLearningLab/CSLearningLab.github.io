@@ -1,4 +1,3 @@
-// this should include the airtable api
 ---
 layout: default
 title: Another page
