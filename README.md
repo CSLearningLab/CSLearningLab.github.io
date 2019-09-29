@@ -29,5 +29,8 @@
 
 The Learning Lab is open from 5pm-7pm every Tuesday, Wednesday, and Thursday in FB007. Check out the schedule above for when your [LAs](./meet-the-team.html) will be available for help!
 
+### Interested in learning more?
+[Click here.](./learn-more.html)
+
 
 
