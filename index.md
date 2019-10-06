@@ -1,3 +1,6 @@
+---
+layout: default
+--- 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148497617-1"></script>
 <script>
@@ -8,8 +11,6 @@
   gtag('config', 'UA-148497617-1');
 </script>
 
-layout: default
---- 
 
 # Welcome to UNC Learning Lab
 <p style="text-align: center;">
