@@ -4,10 +4,6 @@ title: Check-In
 description: The Learning Lab
 ---
 
-## This page is still under construction.
-### Please click [here](http://bit.ly/ll-checkin) to be directed to yet another page!
-### Sorry :)
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shreHutwWEJBpKkQE?backgroundColor=pink" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shreHutwWEJBpKkQE?backgroundColor=pink" frameborder="0" onmousewheel="" width="100%" height="1063" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [back](./)
