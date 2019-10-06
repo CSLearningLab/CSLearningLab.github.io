@@ -11,6 +11,7 @@
 # Welcome to UNC Learning Lab
 <p style="text-align: center;">
   <strong>
+    [button url="http://www.google.com"]
     Make sure to check in 
     <a href="./check-in.html"> here, </a>
     so that we can better track our progress!
