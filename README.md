@@ -1,4 +1,4 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148497617-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -33,5 +33,5 @@ The Learning Lab is open from 5pm-7pm every Tuesday, Wednesday, and Thursday in 
 ### Interested in learning more?
 [Click here.](./learn-more.html)
 
-
+-->
 
