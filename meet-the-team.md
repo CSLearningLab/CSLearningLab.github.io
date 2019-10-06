@@ -9,14 +9,14 @@
       <div class="col-md-4 float-left animate-out mb-4">
         <h3 class="alt-h3 mb-3">Lilly Whalen</h3>
         <p><a href="https://github.com/showcases/government" target="_blank">
-          <img src="assets/img/open-source.png" class="img-border" alt="Pull request launching gov.uk"/></a>
+          <img src="assets/img/open-source.png" class="img-border" alt="coming soon"/></a>
         </p>
         <small>COMP110</small>
       </div>
       <div class="col-md-4 float-left animate-out mb-4">
         <h3 class="alt-h3 mb-3">Izzi Hinks</h3>
         <p><a href="https://github.com/showcases/open-data" target="_blank">
-          <img src="assets/img/open-data.png" class="img-border" alt="GeoJSON diff of Illinois 4th Congressional District"/></a>
+          <img src="assets/img/open-data.png" class="img-border" alt="coming soon"/></a>
         </p>
         <small>COMP110</small>
       </div>
