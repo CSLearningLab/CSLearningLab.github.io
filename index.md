@@ -8,6 +8,10 @@
   gtag('config', 'UA-148497617-1');
 </script>
 
+---
+layout: default
+---
+
 # Welcome to UNC Learning Lab
 <p style="text-align: center;">
   <strong>
