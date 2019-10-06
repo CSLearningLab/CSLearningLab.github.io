@@ -4,4 +4,5 @@ description: A New Learning Initiative in UNC-CH's Department of Computer Scienc
 theme: jekyll-theme-cayman
 datatable: true
 google_analytics: UA-148497617-1
+show_downloads: true
 ---
