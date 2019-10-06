@@ -16,7 +16,7 @@
       <div class="col-md-4 float-left animate-out mb-4">
         <h3 class="alt-h3 mb-3">Izzi Hinks</h3>
         <p><a href="https://github.com/showcases/open-data" target="_blank">
-          <img src="assets/img/open-data.png" class="img-border" alt="coming soon"/></a>
+          <img src="assets/img/izzi.png" class="img-border" alt="coming soon"/></a>
         </p>
         <small>COMP110</small>
       </div>
