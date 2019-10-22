@@ -5,4 +5,8 @@ theme: jekyll-theme-cayman
 datatable: true
 google_analytics: UA-148497617-1
 show_downloads: true
+github:
+  check_in_url: ./check-in
+  CHECK_url: https://raw.githubusercontent.com/CSLearningLab/CSLearningLab.github.io/master/check-in.md
+  
 ---
